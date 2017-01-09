@@ -9,5 +9,6 @@ Most pdf libraries for some reason insist on keeping control of what the creator
         inputDocument.Info.Creator = "I am the creator";
         inputDocument.Save(@"C:\Users\joe\mikado2.pdf");
 
-Not to be used for removing other party's copywrite notices etc
+Not to be used for removing other party's copyright notices etc
 
+See Copyright notices preserved in code from Empira
